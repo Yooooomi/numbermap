@@ -2,7 +2,7 @@
 
 Simply adds a Map function to `Number` prototype
 
-#Example
+# Example
 
 Creating an array of 30 1's:
 `(30).map(e => 1)

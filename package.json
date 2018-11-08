@@ -1,0 +1,25 @@
+{
+  "name": "numbermap",
+  "version": "1.0.0",
+  "description": "Maps over a number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yooooomi/numbermap.git"
+  },
+  "keywords": [
+    "number",
+    "map",
+    "array",
+    "utils"
+  ],
+  "author": "noeyomi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yooooomi/numbermap/issues"
+  },
+  "homepage": "https://github.com/Yooooomi/numbermap#readme"
+}

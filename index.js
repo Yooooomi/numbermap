@@ -1,6 +1,6 @@
 function applyNbMap() {
     Number.prototype.map = function (cb) {
-        nbMap(this.valueOf(), cb);
+        return nbMap(this.valueOf(), cb);
     }
 }
 
